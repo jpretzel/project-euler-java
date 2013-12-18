@@ -26,6 +26,10 @@ public final class MathHelper {
         return isPrime;
     }
 
+    public static boolean isPrime(int i) {
+        return isPrime((long) i);
+    }
+
     public static boolean isPalindrome(int number) {
         return isPalindrome(Integer.toString(number));
     }
