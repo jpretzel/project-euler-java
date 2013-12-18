@@ -1,0 +1,9 @@
+# JAVA
+*.class
+
+# IntelliJ IDEA
+ProjectEuler.iml
+.idea/
+
+# Mac OS X
+.DS_Store
