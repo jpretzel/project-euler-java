@@ -25,4 +25,12 @@ public final class MathHelper {
 
         return isPrime;
     }
+
+    public static boolean isPalindrome(int number) {
+        return isPalindrome(Integer.toString(number));
+    }
+
+    public static boolean isPalindrome(String s) {
+        return s.equals(StringHelper.reverse(s));
+    }
 }
