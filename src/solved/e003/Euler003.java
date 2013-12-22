@@ -1,4 +1,4 @@
-package e003;
+package solved.e003;
 
 import utility.MathHelper;
 

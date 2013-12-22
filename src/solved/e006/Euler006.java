@@ -1,4 +1,4 @@
-package e006;
+package solved.e006;
 
 /**
  * The sum of the squares of the first ten natural numbers is,
